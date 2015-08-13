@@ -19,12 +19,12 @@
 
         <activity android:name=".F3Activity"
             />
-
         <activity
 
             android:name=".F4Activity"
             android:label="@string/app_name" >
         </activity>
+        <activity
             android:name=".F1Activity"
             android:label="@string/app_name" >
         </activity>
